@@ -1,0 +1,2 @@
+README
+Basic CSS is simple HTML5 template Built with EasrWeb. It is grey and black and is fully compatible with most major browsers. The CSS3 includes classes (like Small) designed to make website design more natural and closer to english. These are ported form EasrWeb. 
